@@ -1,0 +1,1 @@
+pyinstaller --onefile --name Getmasauto --icon=app.ico getmasauto.py
